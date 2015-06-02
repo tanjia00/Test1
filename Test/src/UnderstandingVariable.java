@@ -17,6 +17,8 @@ public class UnderstandingVariable {
 		System.out.println("number for tanjia:"+tanjia.number);
 		System.out.println("salary for maanha"+salary);
 		System.out.println("number for maanha:"+maanha.number);
+		System.out.println("test");
+		
 		
 	}
 
